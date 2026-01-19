@@ -3,10 +3,10 @@
 Below is the index of the incredible DevOps journey that awaits you:
 
 ...
-
+let's start
 ### 🌟 [Day 1-7 : Introduction to DevOps and Linux Basics](./2023/day01/)
 
-- Description: Kickstart your 90-day journey with the foundational principles of DevOps. Dive deep into the Linux ecosystem, exploring commands, shell scripting, and file permissions.
+- Description: Kickstart with josh and junoon your 90-day journey with the foundational principles of DevOps. Dive deep into the Linux ecosystem, exploring commands, shell scripting, and file permissions.
 - Topics Covered:
   - [Understanding and defining DevOps](./2023/day01/README.md)
   - [Getting hands-on with basic to advanced Linux commands](./2023/day02/README.md)
